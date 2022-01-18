@@ -9,5 +9,6 @@
 
 ### LANGUAGES AND TOOLS
 
+<img align="left" alt="vs code" width="26px" src="https://github.com/github/explore/blob/main/topics/visual-studio-code/visual-studio-code.png?raw=true"/>
 <img align="left" alt="javascript" width="26px" src="https://github.com/github/explore/blob/main/topics/javascript/javascript.png?raw=true"/>
-<img align="left" alt="javascript" width="26px" src="https://github.com/github/explore/blob/main/topics/python/python.png?raw=true"/>
+<img align="left" alt="python" width="26px" src="https://github.com/github/explore/blob/main/topics/python/python.png?raw=true"/>
