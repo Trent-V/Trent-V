@@ -8,4 +8,4 @@
 
 ### LANGUAGES AND TOOLS
 
-[<img align="left" alt="javascript" width="26px" src="https://github.com/github/explore/blob/main/topics/javascript/javascript.png?raw=true"/>[webPlaylist]]
+<img align="left" alt="javascript" width="26px" src="https://github.com/github/explore/blob/main/topics/javascript/javascript.png?raw=true"/>
